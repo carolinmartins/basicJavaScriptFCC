@@ -1,4 +1,4 @@
-# Desciption
+# Description
 **Word Blanks**
 
 You are provided sentences with some missing words, like nouns, verbs, adjectives and adverbs. You then fill in the missing pieces with words of your choice in a way that the completed sentence makes sense.
